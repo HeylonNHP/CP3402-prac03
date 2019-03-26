@@ -38,7 +38,7 @@ db:
 #################################################################
 
 wpsettings:
-  url: 192.168.33.10
+  url: 192.168.33.12
   title: New Site
   description: Amazing Description
   permalink_structure: "/%postname%/"

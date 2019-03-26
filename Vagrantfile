@@ -13,7 +13,7 @@ Vagrant.configure("2") do |config|
     config.vm.box = "scotch/box"
 
     # For JCU Mac labs:
-    config.vm.network "private_network", ip: "192.168.33.10"
+    config.vm.network "private_network", ip: "192.168.33.12"
     # For JCU Windows labs, comment-out the above line and remove the # on the next line.
     # config.vm.network "public_network"
 
